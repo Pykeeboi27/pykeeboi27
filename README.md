@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://file.notion.so/f/f/9c9ddb33-9c82-42c5-afc2-dfe2a31c7940/c38f44f9-94bf-479f-bf49-45ea3ca1208d/city.gif?table=block&id=2038db4b-d029-48ce-9077-df3d04c9ec48&spaceId=9c9ddb33-9c82-42c5-afc2-dfe2a31c7940&expirationTimestamp=1739836800000&signature=wblWkbX9Vwv-wx9KpS4oYLSQwiYwCjK-MUhPA9mqVCs"  />
+  <img height="500" src="city.gif"  />
 </div>
 
 ###
